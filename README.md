@@ -1,4 +1,4 @@
-# Simple Modal Gallery with React and Sass
+# Modal Gallery with React and Sass
 
 This project implements a basic image gallery with a modal using the React library and Sass for styling. When a user clicks on an image, a modal window appears displaying a larger version of the image along with its description. The user can navigate through all the images using right and left arrow buttons or keyboard arrow keys. Additionally, users can press the "Esc" key to close the modal.
 
@@ -26,5 +26,5 @@ The project is organized into the following components:
 
 Here's a screenshot of the modal gallery in action:
 
-![Modal Gallery]("./src/images/react-1.png")
-![Modal Open]("./src/images/react-2.png")
+![Modal Gallery]("./public/react-1.png")
+![Modal Open]("./public/react-2.png")
