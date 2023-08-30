@@ -1,0 +1,31 @@
+@import '../../styles/Variables.scss';
+@import '../../styles/Globals.scss';
+
+.gallery {
+  button {
+    @include buttonStyle();
+  }
+
+  .gallery-list {
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    row-gap: 50px;
+  }
+
+  img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    will-change: transform;
+    transition: transform 450ms;
+  }
+
+  img:hover {
+    transition: transform 125ms;
+    transform: translateY(-10px);
+  }
+}
