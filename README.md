@@ -26,5 +26,5 @@ The project is organized into the following components:
 
 Here's a screenshot of the modal gallery in action:
 
-![Modal Gallery]("./public/react-1.png")
-![Modal Open]("./public/react-2.png")
+![Modal Gallery](./public/react-1.png)
+![Modal Open](./public/react-2.png)
