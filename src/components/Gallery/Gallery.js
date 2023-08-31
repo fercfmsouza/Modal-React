@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect } from 'react';
 
 import './Gallery.scss';
 import image1 from '../../images/food1.jpeg';
