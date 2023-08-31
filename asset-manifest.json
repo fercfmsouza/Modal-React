@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Modal-React/static/css/main.a7c5ce96.css",
-    "main.js": "/Modal-React/static/js/main.47de2b16.js",
+    "main.js": "/Modal-React/static/js/main.1f6c25b4.js",
     "static/js/787.34755587.chunk.js": "/Modal-React/static/js/787.34755587.chunk.js",
     "static/media/food9.jpeg": "/Modal-React/static/media/food9.c787ce8dd7bf2c104e1e.jpeg",
     "static/media/food8.jpeg": "/Modal-React/static/media/food8.9bba232f680d017bf61e.jpeg",
@@ -12,13 +12,14 @@
     "static/media/food4.jpeg": "/Modal-React/static/media/food4.aaf252e69afe8eb4823e.jpeg",
     "static/media/food3.jpeg": "/Modal-React/static/media/food3.094ff937590d01995682.jpeg",
     "static/media/food7.jpeg": "/Modal-React/static/media/food7.84a12e22aee92027d1ed.jpeg",
+    "static/media/logo.png": "/Modal-React/static/media/logo.f750dad628ed3b263590.png",
     "index.html": "/Modal-React/index.html",
     "main.a7c5ce96.css.map": "/Modal-React/static/css/main.a7c5ce96.css.map",
-    "main.47de2b16.js.map": "/Modal-React/static/js/main.47de2b16.js.map",
+    "main.1f6c25b4.js.map": "/Modal-React/static/js/main.1f6c25b4.js.map",
     "787.34755587.chunk.js.map": "/Modal-React/static/js/787.34755587.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7c5ce96.css",
-    "static/js/main.47de2b16.js"
+    "static/js/main.1f6c25b4.js"
   ]
 }
