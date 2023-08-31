@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Modal-React/static/css/main.a7c5ce96.css",
+    "main.js": "/Modal-React/static/js/main.47de2b16.js",
+    "static/js/787.34755587.chunk.js": "/Modal-React/static/js/787.34755587.chunk.js",
+    "static/media/food9.jpeg": "/Modal-React/static/media/food9.c787ce8dd7bf2c104e1e.jpeg",
+    "static/media/food8.jpeg": "/Modal-React/static/media/food8.9bba232f680d017bf61e.jpeg",
+    "static/media/food1.jpeg": "/Modal-React/static/media/food1.de55d0935566e9700b42.jpeg",
+    "static/media/food5.jpeg": "/Modal-React/static/media/food5.60091e528ec537130b3f.jpeg",
+    "static/media/food6.jpeg": "/Modal-React/static/media/food6.465942346ee8e9dc318a.jpeg",
+    "static/media/food2.jpeg": "/Modal-React/static/media/food2.f32045f55845ff3ce92d.jpeg",
+    "static/media/food4.jpeg": "/Modal-React/static/media/food4.aaf252e69afe8eb4823e.jpeg",
+    "static/media/food3.jpeg": "/Modal-React/static/media/food3.094ff937590d01995682.jpeg",
+    "static/media/food7.jpeg": "/Modal-React/static/media/food7.84a12e22aee92027d1ed.jpeg",
+    "index.html": "/Modal-React/index.html",
+    "main.a7c5ce96.css.map": "/Modal-React/static/css/main.a7c5ce96.css.map",
+    "main.47de2b16.js.map": "/Modal-React/static/js/main.47de2b16.js.map",
+    "787.34755587.chunk.js.map": "/Modal-React/static/js/787.34755587.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7c5ce96.css",
+    "static/js/main.47de2b16.js"
+  ]
+}
