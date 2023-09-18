@@ -22,6 +22,12 @@ The project is organized into the following components:
 
 - The project utilizes Sass for styling. The Sass files can be found in the src/styles directory. It was my first time using Sass.
 
+## Deployment
+
+Deployed with Github Pages.
+
+_Link:_ https://fercfmsouza.github.io/Modal-React/
+
 ## Example Image
 
 Here's a screenshot of the modal gallery in action:
